@@ -1,11 +1,4 @@
-# Audio Manipulation
-Playing with audio, working on a few subprojects
-
-## Piano Visualizer
-
-This section assumes you are working out of the piano-visualizer folder.
-
-The piano visualizer project converts piano music MIDI files to MP3 files and visualizes them on a virtualized piano
+This project converts piano music MIDI files to MP3 files and visualizes them on a virtualized piano
 
 I used conda with python 3.12.9 for this project. I exported my environment to the ../env/ folder. I also generated a requirements.txt if you want to use pip instead. You can run the first command for conda or the second for just pip.
 1. conda env create -f conda_environment.yml
